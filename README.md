@@ -6,13 +6,14 @@
 ```bash
 $ git clone https://github.com/shreyahegde18/News-Research-Tool.git
 ```
+## Activate Virtual Environment
+```
+$ source venv/bin/activate
+```
 
-## Create a Virtual Environment
+## or Create a new Virtual Environment and install requirements.txt
 ```bash
 $ python3 -m venv venv
-```
-## Install requirements.txt
-```bash
 $ pip install requirements.txt
 ```
 
