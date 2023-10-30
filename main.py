@@ -15,7 +15,7 @@ os.environ['OPENAI_API_KEY']= openapi_key
 urls=[]
 llm=OpenAI(temperature=0.9,max_tokens=500)
 file_path="faiss_store_openai.pkl"
-st.title("News Research tool 📈")
+st.title("News Research Tool 📈")
 st.sidebar.title("News Article URLs")
 for i in range(3):
     url=st.sidebar.text_input(f"URL {i+1}")

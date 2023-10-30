@@ -1,4 +1,4 @@
-# Restaurant Name Generator
+# News Research Tool
 
 ![Screenshot](Screenshots/screenshot.png)
  ## Installation (Linux)
