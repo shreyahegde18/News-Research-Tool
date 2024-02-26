@@ -14,7 +14,7 @@ $ source venv/bin/activate
 ## or Create a new Virtual Environment and install requirements.txt
 ```bash
 $ python3 -m venv venv
-$ pip install requirements.txt
+$ pip install -r requirements.txt
 ```
 
 ## OpenAI Key
